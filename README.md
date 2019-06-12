@@ -1,6 +1,6 @@
 # unsupervised-satellite-image-classfication-based-on-partial-domain-adaptation
 machine learning project group 5
-#Code for course project Unsupervised Satellite Image Classification based on Partial Adversarial Domain Adaptation
+# Code for course project Unsupervised Satellite Image Classification based on Partial Adversarial Domain Adaptation
 Team member:Hu Jian;  Clinton Elian Gandana;  
 Joel Dzidzorvi Kwame Disu;  Chen Junjie; Zheng Cheng  
 
@@ -37,8 +37,8 @@ You can set the command parameters to switch between different experiments.
     - For ResNet, "net" is like ResNet50. Detail names are in network.py.
     
 # contribution of our members:
-Hu Jian:build up the model framework,finish the part of train_PADA_pic.py and loss.py
-Clinton Elian Gandana:build up the Alexnet network in network.py
-Joel Dzidzorvi Kwame Disu:foucus on preprocss,finish the pre_process.py
-Chen Junjie:finish the comparation experiments,mainly focus on train_DaNN_pic.py and data_list.py
-Zheng Cheng:build up the comparation experiments in network,mainly focus on tran_ResNet_pic.py and lr_schedule.py
+Hu Jian:build up the model framework,finish the part of train_PADA_pic.py and loss.py.
+Clinton Elian Gandana:build up the Alexnet network in network.py.
+Joel Dzidzorvi Kwame Disu:foucus on preprocss,finish the pre_process.py.
+Chen Junjie:finish the comparation experiments,mainly focus on train_DaNN_pic.py and data_list.py.
+Zheng Cheng:build up the comparation experiments in network,mainly focus on tran_ResNet_pic.py and lr_schedule.py.
